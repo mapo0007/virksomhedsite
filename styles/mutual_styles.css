@@ -1,0 +1,64 @@
+html {
+--font-size: 32px;
+--body: 'arialnarrow', sans-serif;
+--overskrift-font: 'Gloucester MT Extra Condensed;
+
+--brun: #CC6907;
+--orange: #381B0E;
+--hvid: F9FAF2 
+--beige: #F1E1C6;
+
+--background-color: 381B0E
+    --primary: #bada55;
+    --secondary: #ff6347;
+    --tertiary: #4682b4;
+    --space-small: 0.5rem;
+    --space-medium: 1rem;   
+}
+
+h1 {
+    /* = Baggrundsfarve */
+    color: var(-color);
+} */
+--
+.background {
+    /* Primary/Brand Color */
+    color: var(--brun);
+}
+
+.middleground {
+    /* Secondary/Brand Color */
+    color: var(--orange);
+}
+
+.header {
+    /* = Tæritær/Brand Color */
+    color: var(--beige);
+}
+
+.footer {
+    /* = Tæritær/Brand Color */
+    color: var(--beige);
+}
+
+ */
+
+ }
+ 
+h1 { 
+    /* = Overskrifter */
+    color: var(--hvid);
+    font-family: Gloucester MT Extra Condensed;
+}
+    
+ h2 {
+    /* = Global Mentfont */
+    color: var(--orange);
+    font-family: Gloucester MT Extra Condensed;
+}
+  p {
+      /* = Body Text */
+      color: var(--hvid);
+      font-family: 'Arial Narrow', Arial, sans-serif;
+    
+      }
